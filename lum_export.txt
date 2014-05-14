@@ -1,8 +1,14 @@
 # Extract allele-specific signal values from Illumina files using GenomeStudio.
-# Go to Menu Analysis: Select Reports -> Report Wizard ->  Final Report
-# Within the Standard Format Options Dialog make sure Standard is selected. 
-# Drag the following variables to the left side, labeled as Displayed Fields:
-# SNP Name, Chr, Position, B Allele Freq, Log R Ratio
 
-# In the General Options tab make sure the data will be exported in a tab-seperated fashion with 1 sample stored per file (1 Samples / File). Finish with the export. Group by sample should be selected. Make sure to export the samples table as well because sample identifiers will be lost in the exporting process. 
+Go to Menu Analysis: Select Reports -> Report Wizard ->  Final Report
+Within the Standard Format Options Dialog make sure Standard is selected. 
+Drag the following variables to the left side, labeled as Displayed Fields:
+
+SNP Name
+Chr
+Position
+B Allele Freq
+Log R Ratio
+
+In the General Options tab make sure the data will be exported in a tab-seperated fashion with 1 sample stored per file (1 Samples / File). Finish with the export. Group by sample should be selected. Make sure to export the samples table as well because sample identifiers will be lost in the exporting process. 
 
