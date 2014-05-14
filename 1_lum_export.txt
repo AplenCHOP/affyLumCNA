@@ -1,4 +1,4 @@
-# Extract allele-specific signal values from Illumina files using GenomeStudio.
+First, extract allele-specific signal values from Illumina files using GenomeStudio.
 
 Go to Menu Analysis: Select Reports -> Report Wizard ->  Final Report
 Within the Standard Format Options Dialog make sure Standard is selected. 
