@@ -4,7 +4,7 @@ mergeAffyLum
 Copy Number Alterations: Preprocessing, integration, and analysis of Affymetrix and Illumina data
 
 This supplement consist the following information
-1.	Exporting andpre-processing
+1.	Exporting and pre-processing
   a.	Illumina to PennCNV 
   b.	Affymetrix to PennCNV 
 2.	Genomic Wave Correction in PennCNV
