@@ -1,4 +1,4 @@
-mergeAffyLum
+affyLumCNA
 ============
 
 Copy Number Alterations: Preprocessing, integration, and analysis of Affymetrix and Illumina data
@@ -14,4 +14,4 @@ This supplement consist the following information
 From the paper: 
 Concordance of copy number alterations in pediatric acute myeloid leukemia samples between Illumina and Affymetrix genotyping platforms: A report from the Children’s Oncology Group. 
 
-by Marijana Vujkovic, Edward F. Attiyeh, Rhonda E. Ries, Michelle Horn, Elizabeth K. Goodman, Yang Ding, Marko Kavcic, Todd A. Alonzo, Robert B. Gerbing, Betsy Hirsh, Susana Raimondi, Alan S. Gamis, Soheil Meshinchi, Richard Aplenc
+Vujkovic M, Attiyeh EF, Ries RE, Horn M, Goodman EK, Ding Y, Kavcic M, Alonzo TA, Gerbing RB, Hirsh B, Raimondi S, Gamis AS, Meshinchi S, Aplenc R.
