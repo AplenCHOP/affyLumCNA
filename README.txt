@@ -13,4 +13,5 @@ This supplement consist the following information
 
 From the paper: 
 Concordance of copy number alterations in pediatric acute myeloid leukemia samples between Illumina and Affymetrix genotyping platforms: A report from the Children’s Oncology Group. 
+
 by Marijana Vujkovic, Edward F. Attiyeh, Rhonda E. Ries, Michelle Horn, Elizabeth K. Goodman, Yang Ding, Marko Kavcic, Todd A. Alonzo, Robert B. Gerbing, Betsy Hirsh, Susana Raimondi, Alan S. Gamis, Soheil Meshinchi, Richard Aplenc
